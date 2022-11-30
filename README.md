@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lsteffanutto
 - 👀 I’m interested in Machine Learning and Image and Signal Processing
-- 🌱 I’m currently learning Python, C#, Unity (ML-Agent toolkit), TensorFlow, PyTorch
+- 🌱 I’m currently learning Python, C#, Unity (ML-Agent toolkit), TensorFlow, PyTorch, Matlab
 - 📫 How to reach me lucasste33@gmail.com
 
 <!---
